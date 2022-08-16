@@ -8,13 +8,7 @@
 
 
 
-Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you the most exciting:
-
-Game for Teens
-
-Drinking Game (18+)
-
-Gift
+Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you the most exciting card game...all about poo!
 
 ## Meet the Creators
 <p align=center>

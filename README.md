@@ -19,6 +19,10 @@ Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to 
 
 <b>Edward Cook</b>: Theres nothing more life affirming than brewing a nice poo all day, taking the weight off be sitting on the toilet, and then squeezing out a hoggie.
 
+During our friendship we have mainly spoken about our poos, this lead to the idea of turning our love for poo into a card game. After much descussion we decided to go for it, what have we got to lose?! We have tested prototypes of Big Pootential and we think now is the time to start putting it out to the world.
+
+We enjoy playing Big Pootential and we hope you will too!
+
 
 ## Rewards
 

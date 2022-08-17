@@ -2,13 +2,7 @@
 <img src="Logo/final.png" style="display:block;width:50%;">
 </p>
 
-## Story
-
 ### A fun game all about who can brew up the biggest poo! But be careful you don't poo too soon!""
-
-
-
-Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you the most exciting card game...all about poo!
 
 ## Meet the Creators
 <p align=center>
@@ -19,7 +13,11 @@ Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to 
 
 <b>Edward Cook</b>: Theres nothing more life affirming than brewing a nice poo all day, taking the weight off be sitting on the toilet, and then squeezing out a hoggie.
 
-During our friendship we have mainly spoken about our poos, this lead to the idea of turning our love for poo into a card game. After much descussion we decided to go for it, what have we got to lose?! We have tested prototypes of Big Pootential and we think now is the time to start putting it out to the world.
+Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you a new exciting card game...all about poo!
+
+Up until this point we have been self funding Big-Pootential and we now think its time to put it to the public. Any funding will help us achieve our dream getting this great game out there and will go toward the final hurdles of artwork and production costs.
+
+During our friendship we have mainly spoken about our poos, this lead to the idea of turning our love for poo into a card game! After much descussion we decided to go for it, what have we got to lose?! We have tested prototypes of Big Pootential and we think now is the time to start putting it out to the world.
 
 We enjoy playing Big Pootential and we hope you will too!
 
@@ -77,8 +75,10 @@ Place the cards upside down, fip a card upwards. Then guess the next card to be 
 
 ## Risks and challenges
 
-We don't foresee risks as of now as the project has been self-funded till now, as a project that we are really keen on creating for everyone to enjoy, and a brainchild that we want to see come alive!
+Risks:
+Currently we dont forsee any major risks to the project.
 
-Simply put, we will do everything in our power to release this big poo-tential.
+Challenges:
+Our only challenege we keep facing is our finances due to being self funded, we hope this Kick Starter will remove this challenge and allow us to put the game into production.
 
 ![](marketing/draft-1/Post-13_Folder/Post-13.png)

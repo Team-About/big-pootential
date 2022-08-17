@@ -4,7 +4,7 @@
 
 ## Story
 
-### A Big Poopy game about food and drink that causes a big fight back the next day? "Mmmmm Yes Please Daddy."
+### A fun game all about who can brew up the biggest poo! But be careful you don't poo too soon!""
 
 
 

@@ -41,21 +41,17 @@ We enjoy playing Big Pootential and we hope you will too!
 
 1-4 players
 
-Shuffle deck, Player who pooed most recently goes first.
+Key Rule: Player who <b>pooped most recently goes first</b>.
 
-Place the desk in the middle of the players. Clockwise game play.
+As gameplay commences, food cards are key to brewing, creating, developing, the largest poo in the game.
 
-Each player picks up a card and adds it to their pile.
+Beware however of traps your opponents may enforce upon you. Cards like 'laxative' will reduce your likely hood of winning with the largest poo.
 
-If you pick up a ‘Release’ Card you are out of the game. Count up your Pootential Points.
+The End of the game is when you pick up a Release card, this ends your game whilst others can continue to grow their poo.
 
-Keep going until everyone has released. Player with most Pootential points wins.
+At the end, the largest poo emerges as the victor.
 
-Action cards have stated action on card.
-
-Discarded cards should be added to a ‘toilet’ pile.
-
-If a draw in points happens draw a card and add that to your total. If you draw an action card discard it and draw another card until you draw a food card.
+Detailed rules come as part of the game.
 
 ![Consume as much food](marketing/draft-1/Post-17_Folder/Post-17.png)
 ![Dont Poo Too Soon](marketing/draft-1/Post-23_Folder/Post-23.png)

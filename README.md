@@ -15,9 +15,9 @@
 
 Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you a new exciting card game...all about poo!
 
-Up until this point we have been self funding Big-Pootential and we now think its time to put it to the public. Any funding will help us achieve our dream getting this great game out there and will go toward the final hurdles of artwork and production costs.
+Up until this point we have been self funding Big Pootential and we now think its time to put it to the public. Any funding will help us achieve our dream of getting this great game out there and will go toward the final hurdles of artwork and production costs.
 
-During our friendship we have mainly spoken about our poos, this lead to the idea of turning our love for poo into a card game! After much descussion we decided to go for it, what have we got to lose?! We have tested prototypes of Big Pootential and we think now is the time to start putting it out to the world.
+During our friendship we have mainly spoken about our poos, this lead to the idea of turning our love for poo into a card game! After much discussion we decided to go for it, what have we got to lose?! We have tested prototypes of Big Pootential and we think now is the time to start putting it out to the world.
 
 We enjoy playing Big Pootential and we hope you will too!
 
@@ -64,6 +64,8 @@ Detailed rules come as part of the game. Game rules are still under testing and 
 ![Force your opp to have a bad time](marketing/draft-3/Post-10_Folder/Post-10.png)
 ![Release](marketing/draft-3/Post-9_Folder/Post-9.png)
 ![Can You Brew Biggest Poo?](marketing/draft-3/Post-22_Folder/Post-22.png)
+
+### Alternate Rules Being Worked On
 
 ### Drinking Game Rules
 

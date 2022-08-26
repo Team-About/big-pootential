@@ -32,6 +32,12 @@ We enjoy playing Big Pootential and we hope you will too!
 | £10 | Pledge Without Reward | Support the project, show some love to see the project comes to light | 🟥 |
 | £25 | Pledge & Pre Order | Pledge your support to make this project work and pre order Big Pootential Card Game to arrive before Christmas! | 🟩 |
 
+
+## Timeline 
+
+
+
+
 ## Rules
 
 ### Game Rules

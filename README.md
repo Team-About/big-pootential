@@ -57,7 +57,7 @@ The End of the game is when you pick up a Release card, this ends your game whil
 
 At the end, the largest poo emerges as the victor.
 
-Detailed rules come as part of the game.
+Detailed rules come as part of the game. Game rules are still under testing and development so as we recieve more focus group feedback, adjustments will be made.
 
 ![Consume as much food](marketing/draft-3/Post-17_Folder/Post-17.png)
 ![Dont Poo Too Soon](marketing/draft-3/Post-23_Folder/Post-23.png)

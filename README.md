@@ -35,8 +35,9 @@ We enjoy playing Big Pootential and we hope you will too!
 
 ## Timeline 
 
+Our intention and goal is to have Big Pootential released before the holiday season to be a gift, and to be played during the festive period.
 
-
+![](Screenshot%202022-08-26%20at%2020.08.41.png)
 
 ## Rules
 

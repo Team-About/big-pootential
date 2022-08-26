@@ -24,20 +24,19 @@ We enjoy playing Big Pootential and we hope you will too!
 
 ## Rewards
 
-![](marketing/draft-1/Post-2.2(kickstarter)_Folder/Post-2.2(kickstarter).png)
-![](marketing/draft-1/Post-4.1(kickstarter)_Folder/Post-4.1(kickstarter).png)
+![](marketing/draft-2/Post-2.2(kickstarter)_Folder/Post-2.2(kickstarter).png)
+![](marketing/draft-3/Post-4.1(kickstarter)_Folder/Post-4.1(kickstarter).png)
 
-| Pledge Minimum | Title | Description | Deck of Cards Reward | A1 Poo Poster |
-| --- | --- | --- | --- | --- |
-| £10 | Pledge Without Reward | Support the project, show some love to see the project comes to light | 🟥 | 🟥 |
-| £25 | Pledge & Pre Order | Pledge your support to make this project work and pre order Big Pootential Card Game to arrive before Christmas! | 🟩 | 🟥 |
-| £50 | Pledge & Pre Order & A1 Poo Poster | Hot off the poo press | 🟩 | 🟩 |
+| Pledge Minimum | Title | Description | Deck of Cards Reward |
+| --- | --- | --- | --- |
+| £10 | Pledge Without Reward | Support the project, show some love to see the project comes to light | 🟥 |
+| £25 | Pledge & Pre Order | Pledge your support to make this project work and pre order Big Pootential Card Game to arrive before Christmas! | 🟩 |
 
 ## Rules
 
 ### Game Rules
 
-![](marketing/draft-1/Post-2.1(kickstarter)_Folder/Post-2.1(kickstarter).png)
+![](marketing/draft-3/Post-2.1(kickstarter)_Folder/Post-2.1(kickstarter).png)
 
 1-4 players
 
@@ -53,11 +52,11 @@ At the end, the largest poo emerges as the victor.
 
 Detailed rules come as part of the game.
 
-![Consume as much food](marketing/draft-1/Post-17_Folder/Post-17.png)
-![Dont Poo Too Soon](marketing/draft-1/Post-23_Folder/Post-23.png)
-![Force your opp to have a bad time](marketing/draft-1/Post-10_Folder/Post-10.png)
-![Release](marketing/draft-1/Post-9_Folder/Post-9.png)
-![Can You Brew Biggest Poo?](marketing/draft-1/Post-22_Folder/Post-22.png)
+![Consume as much food](marketing/draft-3/Post-17_Folder/Post-17.png)
+![Dont Poo Too Soon](marketing/draft-3/Post-23_Folder/Post-23.png)
+![Force your opp to have a bad time](marketing/draft-3/Post-10_Folder/Post-10.png)
+![Release](marketing/draft-3/Post-9_Folder/Post-9.png)
+![Can You Brew Biggest Poo?](marketing/draft-3/Post-22_Folder/Post-22.png)
 
 ### Drinking Game Rules
 
@@ -77,4 +76,4 @@ Currently we dont forsee any major risks to the project.
 Challenges:
 Our only challenege we keep facing is our finances due to being self funded, we hope this Kick Starter will remove this challenge and allow us to put the game into production.
 
-![](marketing/draft-1/Post-13_Folder/Post-13.png)
+![](marketing/draft-3/Post-13_Folder/Post-13.png)
